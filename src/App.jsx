@@ -1,12 +1,10 @@
-
 import './App.css'
+import Header from './Components/Header'
 
 function App() {
- 
-
   return (
     <>
-      {/* <h1 className='text-[50px] bg-slate-300'>Welcome back</h1> */}
+      <Header />
     </>
   )
 }
